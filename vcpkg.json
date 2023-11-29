@@ -1,0 +1,9 @@
+{
+  "name": "event-aggregator",
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "boost",
+    "catch2"
+  ]
+}
